@@ -54,6 +54,28 @@
   background-color: var(--light-color);
   color: #333;
 }
+
+/* Text Sizes */
+.lead {
+  font-size: 20px;
+}
+
+.sm {
+  font-size: 1rem;
+}
+
+.md {
+  font-size: 2rem;
+}
+
+.lg {
+  font-size: 3rem;
+}
+
+.xl {
+  font-size: 4rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -141,3 +163,4 @@
 .p-5 {
   padding: 4rem 0;
 }
+/* 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 */
