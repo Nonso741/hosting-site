@@ -81,6 +81,10 @@ pre {
   justify-content: space-between;
 }
 
+.active a {
+  border-bottom: 2px #fff solid;
+}
+
 /* Showcase */
 .showcase {
   height: 400px;
